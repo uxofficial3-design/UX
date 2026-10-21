@@ -635,7 +635,7 @@ do
 -- ============================================================================
 local MasterLicenseConfig = (function()
     return {
-        url = 'https://lua.uxloader.online/connect', game = 'PUBGM',
+        url = 'https://lua.uxofficial.top/connect', game = 'PUBGM',
         timeout = 10, clockSkew = 120, expiryPath = nil,
         manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
         secret = 'DIAMONDYT',
